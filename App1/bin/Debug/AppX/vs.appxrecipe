@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-TIDNJCA</Machine>
+    <WindowsUser>jairo</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>75f3b3b4-68da-4781-9c7f-9366e98a31e6</PackageIdentityName>
+    <PackageIdentityPublisher>CN=jairo</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\jairo\Desktop\uwp\App1\App1\bld\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath>
+    </WindowsSdkPath>
+    <LayoutDir>C:\Users\jairo\Desktop\uwp\App1\App1\bin\Debug\AppX</LayoutDir>
+    <RegisteredManifestChecksum>1B118CAD7B7906A7E81C0D7019C3E79CA1AC9DB0250B0C89F077A41E2548C4F3</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>75f3b3b4-68da-4781-9c7f-9366e98a31e6_1.0.0.0_neutral__vxyg8s4r9ft88</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>75f3b3b4-68da-4781-9c7f-9366e98a31e6_vxyg8s4r9ft88!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>75f3b3b4-68da-4781-9c7f-9366e98a31e6</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=jairo</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\jairo\Desktop\uwp\App1\App1\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-09-26T15:27:22.562</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\jairo\Desktop\uwp\App1\App1\images\back.png">
+      <PackagePath>images\back.png</PackagePath>
+      <Modified>2018-09-26T15:03:23.661</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jairo\Desktop\uwp\App1\App1\images\LockScreenLogo.scale-200.png">
+      <PackagePath>images\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2018-09-23T09:32:48.458</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jairo\Desktop\uwp\App1\App1\images\SplashScreen.scale-200.png">
+      <PackagePath>images\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-09-23T09:32:48.458</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jairo\Desktop\uwp\App1\App1\images\Square150x150Logo.scale-200.png">
+      <PackagePath>images\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-09-23T09:32:48.458</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jairo\Desktop\uwp\App1\App1\images\Square44x44Logo.scale-200.png">
+      <PackagePath>images\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-09-23T09:32:48.458</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jairo\Desktop\uwp\App1\App1\images\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>images\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-09-23T09:32:48.458</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jairo\Desktop\uwp\App1\App1\images\StoreLogo.png">
+      <PackagePath>images\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-09-23T09:32:48.458</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jairo\Desktop\uwp\App1\App1\images\Wide310x150Logo.scale-200.png">
+      <PackagePath>images\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-09-23T09:32:48.458</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jairo\Desktop\uwp\App1\App1\index.html">
+      <PackagePath>index.html</PackagePath>
+      <Modified>2018-09-26T15:19:39.653</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jairo\Desktop\uwp\App1\App1\js\main.js">
+      <PackagePath>js\main.js</PackagePath>
+      <Modified>2018-09-26T15:41:01.631</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jairo\Desktop\uwp\App1\App1\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2018-09-26T14:09:34.599</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jairo\Desktop\uwp\App1\App1\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-09-26T15:27:22.415</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

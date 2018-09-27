@@ -1,0 +1,23 @@
+{
+  "name": "src",
+  "version": "1.0.0",
+  "description": "",
+  "main": "App.tsx",
+  "scripts": {
+    "build": "parcel build main.tsx --out-dir=../js"
+  },
+  "keywords": [],
+  "author": "",
+  "engines": {
+    "ecmascript": "2017"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2",
+    "react-uwp": "^1.2.1"
+  },
+  "devDependencies": {
+    "typescript": "^3.0.3"
+  }
+}
